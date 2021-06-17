@@ -1,1 +1,2 @@
-# c36-act
+# synchronousBallMovement
+Ball moving synchronously
